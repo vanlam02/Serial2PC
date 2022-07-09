@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Code Luan Van\SerialPort2PC\SerialPort2PC\</FILEPATH>
+      <FILENAME>SerialPort.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'SerialPort::status' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>SerialPort::{ctor}</FUNCTION>
+    <DECORATED>??0SerialPort@@QAE@PAD@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>SerialPort::status</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Code Luan Van\SerialPort2PC\SerialPort2PC\</FILEPATH>
+      <FILENAME>SerialPort.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'SerialPort::errors' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>SerialPort::{ctor}</FUNCTION>
+    <DECORATED>??0SerialPort@@QAE@PAD@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>SerialPort::errors</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
